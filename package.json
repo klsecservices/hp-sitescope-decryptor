@@ -1,0 +1,11 @@
+{
+  "name": "hp-sitescope-decryptor",
+  "description": "HP SiteScope Configuration Decryptor",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "~1.0.10",
+    "java-deserialization": "~0.1.0"
+  },
+  "main": "decryptor.js"
+}
